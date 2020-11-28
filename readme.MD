@@ -14,9 +14,9 @@
 
 ### 我选出两个我认为比较好的学习网址
 
-+ https://b23.tv/6bweeX
++ https://b23.tv/6bweeX    
   B站一个tableau的系列视频，原声中文，接地气，主要对实践操作的东西讲的比较多；但是视频没有明显的标题和框架，找知识点不太方便
-+ https://elearning.tableau.com/desktop-itableau-102018
++ https://elearning.tableau.com/desktop-itableau-102018    
   官方的教学视频，比较理论，还有明确的大纲和框架；缺点就是，翻译过来肯定有一些语言和使用上的差异；官方的东西，全但肯定墨迹
 + 官方教学（all）也是需要，先学生认证，才会免费送你。
 
